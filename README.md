@@ -1,7 +1,7 @@
 - 👋 Olá, eu me chamo Rafaela
 -  Faço engenharia de computação na UTFPR
 -  Estudando para ser dev back-end
--  Estou a procura de estágio e/oportunidades de aprendizado
+-  Estou a procura de estágio e/ou oportunidades de aprendizado
 -  meu linkedIn: https://www.linkedin.com/in/rafaela-fernandes212
 -  C/C++/JavaScript/SQL/PostgreSQL/MySQL
 
