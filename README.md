@@ -2,7 +2,7 @@
 -  Faço engenharia de computação na UTFPR
 -  Estou a procura de estágio e/ou oportunidades de aprendizado
 -  meu linkedIn: https://www.linkedin.com/in/rafaela-fernandes212
--  C/C++/JavaScript/HTML/CSS
+-  C/C++
 
 <!---
 Rafaelafernandess/Rafaelafernandess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
